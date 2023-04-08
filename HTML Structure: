@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Traffic Light Demo</title>
+  </head>
+  <body>
+    <h1>Traffic Light Demo</h1>
+    <div id="traffic-light">
+      <div id="red"></div>
+      <div id="yellow"></div>
+      <div id="green"></div>
+    </div>
+    <div id="buttons">
+      <button id="red-button">Red</button>
+      <button id="yellow-button">Yellow</button>
+      <button id="green-button">Green</button>
+      <button id="skip-button">Skip</button>
+    </div>
+  </body>
+</html>
